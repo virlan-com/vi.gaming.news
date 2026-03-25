@@ -1,0 +1,91 @@
+{
+  "last_updated": "2026-03-25T17:00:00Z",
+  "data": {
+    "top_stories": [
+      {
+        "title": "GTA 6 Trailer 2: Rockstar confirms exact release date amid massive hype",
+        "link": "#",
+        "source": "IGN",
+        "timestamp": 1711386000
+      }
+    ],
+    "all": [
+      {
+        "title": "Helldivers 2 servers at capacity again following new mech update",
+        "link": "#",
+        "source": "Reddit",
+        "timestamp": 1711385400
+      },
+      {
+        "title": "Wordle Today: Answer and hints for puzzle #1,005",
+        "link": "#",
+        "source": "Polygon",
+        "timestamp": 1711384800
+      }
+    ],
+    "viral": [
+      {
+        "title": "Lethal Company mod adds 100 player lobbies and it is total chaos",
+        "link": "#",
+        "source": "TikTok",
+        "timestamp": 1711384000
+      }
+    ],
+    "updates": [
+      {
+        "title": "Valorant Patch Notes 8.05: Omen nerfs and new map changes",
+        "link": "#",
+        "source": "Riot Games",
+        "timestamp": 1711383000
+      }
+    ],
+    "errors": [
+      {
+        "title": "Roblox is currently down for thousands of users: Error Code 529 fix",
+        "link": "#",
+        "source": "DownDetector",
+        "timestamp": 1711382400
+      }
+    ],
+    "guides": [
+      {
+        "title": "Best loadouts for Warzone Season 2 Reloaded",
+        "link": "#",
+        "source": "CharlieIntel",
+        "timestamp": 1711381000
+      }
+    ],
+    "assets": [
+      {
+        "title": "CS2 new skin collection leaked in latest datamine",
+        "link": "#",
+        "source": "Twitter",
+        "timestamp": 1711380000
+      }
+    ],
+    "browser": [
+      {
+        "title": "Top 5 unblocked .io games to play at school or work in 2026",
+        "link": "#",
+        "source": "Virlan",
+        "timestamp": 1711379000
+      }
+    ],
+    "streamers": [
+      {
+        "title": "Kai Cenat breaks Twitch record during Elden Ring marathon",
+        "link": "#",
+        "source": "Dexerto",
+        "timestamp": 1711378000
+      }
+    ],
+    "mobile": [
+      {
+        "title": "Genshin Impact 4.5 banners: Best characters to pull right now",
+        "link": "#",
+        "source": "HoYoLab",
+        "timestamp": 1711377000
+      }
+    ]
+  }
+}
